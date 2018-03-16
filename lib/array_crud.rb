@@ -43,6 +43,5 @@ end
 
 
 def retrieve_last_element_from_array(array)
-    retrieve_last_element_from_array = ["blue", "yellow", "red"] 
-    retrieve_first_element_from_array[3]
+    
 end
